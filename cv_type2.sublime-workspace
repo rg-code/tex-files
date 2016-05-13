@@ -1,0 +1,269 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 218.0,
+		"last_filter": "git push",
+		"selected_items":
+		[
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git a",
+				"Git: Add All"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				" ",
+				"Git: Add Current File"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"vme",
+				"View: Toggle Menu"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/rg/Desktop/cv/tex/cv_type2.tex",
+		"/home/rg/Desktop/cv/tex/resume_type2.tex",
+		"/home/rg/Desktop/web/test.html",
+		"/home/rg/Desktop/web/css/final2.html",
+		"/home/rg/Desktop/web/css/style.css",
+		"/home/rg/Desktop/web/css/gumby.css",
+		"/home/rg/Desktop/web/css/component.css",
+		"/home/rg/Desktop/web/css/animate.css",
+		"/home/rg/Desktop/web/css/modernizr-2.6.2.min.js",
+		"/home/rg/Desktop/web/css/carousel.css",
+		"/home/rg/Desktop/web/d3_2.html",
+		"/home/rg/Desktop/web/travis.html",
+		"/home/rg/Desktop/web/d3.html",
+		"/home/rg/Desktop/web/d3_4.html",
+		"/home/rg/Desktop/web/graph.json",
+		"/home/rg/Desktop/web/force.html",
+		"/home/rg/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/rg/Desktop/web/3.js",
+		"/home/rg/Desktop/web/2.js",
+		"/home/rg/Desktop/web/d3test.html",
+		"/home/rg/Desktop/web/d3testdata.json",
+		"/home/rg/Desktop/web/pub.json",
+		"/home/rg/Desktop/web/travis.css",
+		"/home/rg/Desktop/web/d3.min.js",
+		"/home/rg/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/rg/.config/sublime-text-3/Packages/User/Git.sublime-settings",
+		"/home/rg/Desktop/web/1.css",
+		"/home/rg/Desktop/web/4.js",
+		"/opt/sublime_text/changelog.txt"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#",
+			"bg",
+			"js/",
+			"header",
+			"\",\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"%",
+			"css/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 110.0
+	},
+	"pinned_build_system": "",
+	"project": "cv_type2.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
