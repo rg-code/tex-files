@@ -1,7 +1,7 @@
 # Instructions
 Latex Documents and templates
 
-I have made some modifcation to meet my needs, all the templates are open source and contains the credit to original licesnes.
+I have made some modifcation to meet my needs, all the templates are open source and contain credits to original licesnes.
 Please feel free to use and modify any of the cls and tex files by keeping the licensing info intact.
 
 If you are using Debian based machine I recommend tex maker or gummi for editing tex documents.
